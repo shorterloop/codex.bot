@@ -7,7 +7,7 @@ appdirs==1.4.4
 async-timeout==3.0.1
 asyncio==3.4.3
 attrs==21.2.0
-certifi==2021.10.8
+certifi==2026.10.19
 chardet==3.0.4
 charset-normalizer==2.0.9
 frozenlist==1.2.0
